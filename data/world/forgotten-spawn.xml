@@ -378,12 +378,7 @@
 		<monster name="Troll" x="4" y="-1" z="7" spawntime="60" />
 		<monster name="Troll" x="-4" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="103" centery="120" centerz="7" radius="5">
-		<monsters x="-1" y="1" z="7" spawntime="180">
-			<monster name="Rabbit" chance="70" />
-			<monster name="Skunk" chance="30" />
-		</monsters>
-	</spawn>
+	<spawn centerx="103" centery="120" centerz="7" radius="5" />
 	<spawn centerx="86" centery="122" centerz="7" radius="1">
 		<npc name="Riona" x="0" y="0" z="7" spawntime="60" direction="3" />
 	</spawn>
@@ -485,6 +480,12 @@
 	<spawn centerx="314" centery="372" centerz="7" radius="5">
 		<monster name="Orc Berserker" x="0" y="-4" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="-4" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="182" centery="373" centerz="7" radius="1">
+		<npc name="Eryn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="186" centery="374" centerz="7" radius="1">
+		<npc name="Je moeder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="257" centery="375" centerz="7" radius="5">
 		<monster name="Orc Warrior" x="-2" y="-3" z="7" spawntime="60" />
@@ -951,6 +952,51 @@
 	<spawn centerx="95" centery="142" centerz="8" radius="5">
 		<monster name="Rat" x="2" y="-1" z="8" spawntime="60" />
 		<monster name="Rat" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="361" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="49" centery="365" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="365" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="365" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="365" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="49" centery="370" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="370" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="370" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="370" centerz="8" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Training Monk" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="211" centery="374" centerz="8" radius="5">
 		<monster name="Rotworm" x="4" y="-3" z="8" spawntime="60" />
