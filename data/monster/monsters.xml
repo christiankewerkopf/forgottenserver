@@ -427,6 +427,7 @@
 	<monster name="Minotaur" file="monsters/minotaur.xml" />
 	<monster name="Modified Gnarlhound" file="monsters/modified_gnarlhound.xml" />
 	<monster name="Monk" file="monsters/monk.xml" />
+	<monster name="Training Monk" file="monsters/training_monk.xml" />
 	<monster name="Monstor" file="monsters/monstor.xml" />
 	<monster name="Mooh'tah Warrior" file="monsters/mooh'tah_warrior.xml"/>
 	<monster name="Moohtant" file="monsters/moohtant.xml"/>
